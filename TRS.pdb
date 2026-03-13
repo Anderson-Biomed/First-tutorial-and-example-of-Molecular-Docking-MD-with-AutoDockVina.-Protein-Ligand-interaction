@@ -1,0 +1,26 @@
+HEADER    PROTEIN                                 24-FEB-12   NONE
+TITLE     NULL                                                        
+COMPND    MOLECULE: Structure #1                                      
+SOURCE    NULL                                                        
+KEYWDS    NULL                                                        
+EXPDTA    NULL                                                        
+AUTHOR    Marvin                                                      
+REVDAT   1   24-FEB-12         0                                  
+HETATM    1  C   UNK     0       4.207   1.540   0.000  0.00  0.00           C+0
+HETATM    2  C   UNK     0       3.644  -0.564   0.000  0.00  0.00           C+0
+HETATM    3  C   UNK     0       1.540   0.000   0.000  0.00  0.00           C+0
+HETATM    4  C   UNK     0       2.874   0.770   0.000  0.00  0.00           C+0
+HETATM    5  N   UNK     0       2.104   2.104   0.000  0.00  0.00           N+0
+HETATM    6  O   UNK     0       4.207   3.080   0.000  0.00  0.00           O+0
+HETATM    7  O   UNK     0       5.184  -0.564   0.000  0.00  0.00           O+0
+HETATM    8  O   UNK     0       0.206   0.770   0.000  0.00  0.00           O+0
+CONECT    1    4    6                                                       
+CONECT    2    4    7                                                       
+CONECT    3    4    8                                                       
+CONECT    4    1    2    3    5                                             
+CONECT    5    4                                                            
+CONECT    6    1                                                            
+CONECT    7    2                                                            
+CONECT    8    3                                                            
+MASTER        0    0    0    0    0    0    0    0    8    0   14    0
+END
